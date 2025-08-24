@@ -1,6 +1,6 @@
 # PKP Preservation Network Plugin for OJS
 
-[![OJS compatibility](https://img.shields.io/badge/ojs-3.4-brightgreen)](https://github.com/pkp/ojs/tree/stable-3_4_0)
+[![OJS compatibility](https://img.shields.io/badge/ojs-3.5-brightgreen)](https://github.com/pkp/ojs/tree/stable-3_5_0)
 [![GitHub release](https://img.shields.io/github/v/release/pkp/pln?include_prereleases&label=latest%20release&filter=v3*)](https://github.com/pkp/pln/releases)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/pkp/pln)
 [![License type](https://img.shields.io/github/license/pkp/pln)](https://github.com/pkp/pln/blob/main/LICENSE)
@@ -46,7 +46,7 @@ file LICENSE for the complete terms of this license.
 
 ## System Requirements
 
-- OJS 3.4.0 or greater.
+- OJS 3.5.0 or greater.
 - CURL support for PHP.
 - ZipArchive support for PHP.
 
