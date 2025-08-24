@@ -122,3 +122,7 @@ not necessary.)
 - Chris MacDonald <chris@fcts.ca>
 - Michael Joyce <ubermichael@gmail.com>
 - Dimitris Efstathiou <defstat@gmail.com>
+  
+## Upgraded to v3.1.3.0 author  
+- Saddam Al-Slfi <saddamalsalfi@qau.edu.ye>
+  
